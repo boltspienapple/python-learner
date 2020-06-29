@@ -19,7 +19,7 @@ amy = turtle.Turtle()
 
 for prettycolor in ["red", "orange", "yellow", "violet", "blue", "green","indigo"]:
     amy.color(prettycolor)
-    for side in [1,2,3,4,5]:
+    for side in range(5):
         amy.forward(100)
         amy.right(144)
     amy.right(60)
