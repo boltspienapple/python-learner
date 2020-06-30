@@ -19,4 +19,3 @@ for side in range(100):
     bolt.right(120)
     bolt.forward(120)
     bolt.right(160)
-    
