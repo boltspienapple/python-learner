@@ -9,3 +9,4 @@ def count_substring(string, target):
 
 # Here's a call you can test it with. This should print 4:
 print(count_substring('AAAA', 'AA'))
+print(count_substring('love, love, love, all you need is love', 'love'))
