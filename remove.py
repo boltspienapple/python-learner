@@ -8,7 +8,7 @@ def remove_substring(string, substring):
         else:
             output.append(string[index])
             index += 1
-           
+            
     return "".join(output)
 
 
